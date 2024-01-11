@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me :
 - 🔭 I’m currently working as a full stack Software Engineer contributing to security and full stack applications
 - 🌱 Focusing on becoming a better developer while driving least privelege
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dantaayy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dante-zelaya)
 - ⚡ Fun fact: I am also a content creator so don't forget to follow my socials 😊
 
 ---
@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svgg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
