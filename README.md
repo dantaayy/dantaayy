@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me :
 - 🔭 I’m currently working as a full stack Software Engineer contributing to security and full stack applications
 - 🌱 Focusing on becoming a better developer while driving least privelege
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dantaayy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dante-zelaya)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Dante-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dante-zelaya)
 - ⚡ Fun fact: I am also a content creator so don't forget to follow my socials 😊
 
 ---
