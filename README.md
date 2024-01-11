@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=dantaayy&style=flat-square&color=blue"/>
 </p>
 
-<h1 align="center> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
