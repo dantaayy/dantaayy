@@ -1,7 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100/>
-</div>
-    
+<p align="center">
+  <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dante-zelaya/">
+    <img src="https://shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dantaayy&style=flat-square&color=blue"/>
+</p>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
